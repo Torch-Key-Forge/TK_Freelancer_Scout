@@ -1,0 +1,44 @@
+# Secrets and local configuration
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+*credential*
+*credentials*
+*secret*
+*token*
+
+# Private operational material
+receipts/
+evidence/
+private/
+internal/
+local-data/
+output/
+outputs/
+*.receipt
+*.receipt.*
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage.xml
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
