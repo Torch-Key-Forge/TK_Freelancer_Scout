@@ -1,5 +1,7 @@
 # Torch & Key Freelancer Scout
 
+![Torch & Key Freelancer Scout emblem](assets/TK_Freelancer_Scout.png)
+
 > Bounded opportunity intelligence for human-reviewed freelance project intake.
 
 Torch & Key Freelancer Scout is an internal business-development aid for Torch & Key's freelance services work. It helps a human operator discover and review potentially suitable Freelancer projects. The Scout is not a marketplace, bidding bot, or autonomous contracting agent.

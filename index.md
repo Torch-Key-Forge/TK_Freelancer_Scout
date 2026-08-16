@@ -4,6 +4,8 @@ title: Torch & Key Freelancer Scout
 
 # Torch & Key Freelancer Scout
 
+![Torch & Key Freelancer Scout emblem](assets/TK_Freelancer_Scout.png)
+
 **Bounded opportunity intelligence for human-reviewed freelance project intake.**
 
 ## Purpose
